@@ -1,4 +1,4 @@
-# XGBoost-based Dengue Case Classification in Brazilian Pediatric Cohort
+# XGBoost-based dengue case classification in Brazilian pediatric cohort using clinical and household features
 
 ## Description
 
